@@ -1,0 +1,23 @@
+{
+    "name": "NightWerewolf",
+    "rootNamespace": "",
+    "references": [
+        "GUID:30817c1a0e6d646d99c048fc403f5979",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:efa45043feb7e4147a305b73b5cea642",
+        "GUID:ae8aa7cb2f6e1a0488245ba0eabca208",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:029c1c1b674aaae47a6841a0b89ad80e",
+        "GUID:240edc116b39bdd49aa317fa6f06a330",
+        "GUID:3e90199726a18bc488368938e8df23bf"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
