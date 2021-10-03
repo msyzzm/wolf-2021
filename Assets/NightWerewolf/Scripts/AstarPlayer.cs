@@ -34,8 +34,8 @@ public class AstarPlayer : MonoBehaviour
         //监听鼠标左键按下
         if (!Util.IsPointerOverUIObject() && Input.GetMouseButtonDown(0))
         {
-            //用射线创建 TargetPoint
-            Ray        ray = Camera.main.ScreenPointToRay(Input.mousePosition);
+            // 用射线创建 TargetPoint
+            Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
             // print(Input.mousePosition);
 
             //利用物理引擎发射一条射线，返回true，说明射线与物体发生碰撞
